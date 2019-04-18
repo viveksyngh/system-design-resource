@@ -7,3 +7,5 @@
 [Hacking the Software Engineer Interview](https://puncsky.com/hacking-the-software-engineer-interview/)
 
 [Scalability for Dummies](http://www.lecloud.net/tagged/scalability)
+
+[System Design Primer](https://github.com/donnemartin/system-design-primer)
